@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151655892515",
+    "project_id": "teste2-gabriel",
+    "storage_bucket": "teste2-gabriel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151655892515:android:80e7d744bda2e6c0a69396",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_agro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw42iKsBoIM7m2u5kbV-QV-IAPe5GnmSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
